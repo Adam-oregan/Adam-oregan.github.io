@@ -1,1 +1,0 @@
-# Adam-oregan.github.io
