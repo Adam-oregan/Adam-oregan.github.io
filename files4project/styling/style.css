@@ -5,7 +5,8 @@ body{
 #map{
 	background-color : #Add8ff;
 	border-color: black;
-	border-width: 2px
+	border-width: 2px;
+	max-width: 100%;
 }
 
 
