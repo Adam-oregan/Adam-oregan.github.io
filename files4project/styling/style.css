@@ -1,9 +1,9 @@
 body{
-	background-color : #ffb;
+	background-color: #ffb;
 }
 
 #map{
-	background-color : #Add8ff;
+	background-color: #Add8ff;
 	border-color: black;
 	border-width: 2px;
 	max-width: 100%;
@@ -94,6 +94,8 @@ table.center {
 	margin-right: 5%;
 	background-color:#CCCCCC;
 	height: 120px;
+
+	padding-bottom: 100px;
 }
 
 #hover{
