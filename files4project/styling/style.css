@@ -127,7 +127,7 @@ img.logo_right{ right: 0; }
 
 img.logo_left{  left: 0;  }
 
-#github_download_button { width: 0.8em; }
+#github_download_button { height: 1em; }
 
 #unique_numList, #simple_numList{
 	white-space-collapse: preserve;
