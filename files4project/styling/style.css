@@ -9,7 +9,13 @@ body{
 	max-width: 100%;
 }
 
-
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  border: 1px solid black;
+  background-color: white;
+}
 
 .convert_to_map{
 	display: block;
