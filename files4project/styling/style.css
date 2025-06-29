@@ -12,6 +12,7 @@ body{
 .section_footer{
 	position: relative;
 	width: 75%;
+	text-align: center;
 }
 
 #page_footer {
