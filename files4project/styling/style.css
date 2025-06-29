@@ -13,6 +13,8 @@ body{
 	position: relative;
 	width: 75%;
 	text-align: center;
+
+	padding-left: 10%;
 }
 
 #page_footer {
@@ -95,7 +97,7 @@ table.center {
 	background-color:#CCCCCC;
 	height: 120px;
 
-	padding-bottom: 100px;
+	padding-bottom: 50px;
 }
 
 #hover{
